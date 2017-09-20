@@ -1,0 +1,11 @@
+.DS_Store
+*.pyc
+
+.project
+.pydevproject
+
+*.log
+*.aux
+*.toc
+
+report/report.pdf
